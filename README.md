@@ -18,3 +18,7 @@
                 .putExtra(PHOTO_LIST,photoList)
                 .putExtra(Constant.PhotoBroAction.ACTION_KEY,actionKey)
                 .build();
+
+
+######项目刚启动 只适配了常见情况  如需要增加什么接口
+######可以联系作者:kyluzoi@gmail.com
